@@ -1,0 +1,19 @@
+{
+  "name": "t2h3-cli-based-game",
+  "version": "1.0.0",
+  "description": "a CLI based game with Typescript, Node.js and inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Tanzeela Arshad\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
