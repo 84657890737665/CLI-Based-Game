@@ -1,5 +1,5 @@
 {
-  "name": "t2h3-cli-based-game",
+  "name": "t2-teejay-arsh-game",
   "version": "1.0.0",
   "description": "a CLI based game with Typescript, Node.js and inquirer.",
   "main": "index.js",
